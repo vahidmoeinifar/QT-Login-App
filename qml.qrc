@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>fontawesome-webfont.ttf</file>
+        <file>LogInPage.qml</file>
+        <file>MyButton.qml</file>
+        <file>UserPanel.qml</file>
+        <file>RetrievePassPage.qml</file>
+        <file>CreateNewUser.qml</file>
+        <file>MyTextField.qml</file>
+        <file>ForgetPass.qml</file>
+        <file>ChangePassByVerifyPage.qml</file>
+    </qresource>
+    <qresource prefix="/logo"/>
+</RCC>
